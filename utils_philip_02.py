@@ -4,7 +4,7 @@ Module: Underwater Analytics - Reusable Module for My Data Analytics Projects
 
 This module provides a simple, reusable foundation for my analytics projects. 
 When we work hard to write useful code, we want it to be reusable.
-A good byline could be used in every Python analytics project we do.
+A good byline should be used in every Python analytics project we do.
 
 Process:
 
